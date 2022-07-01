@@ -7,3 +7,4 @@ digit=number%10
 reverse_number=reverse_number*10+digit
 number//=10
 print("reverse number:"+str(reverse_number))
+
